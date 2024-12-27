@@ -1,6 +1,6 @@
 # (Next.js Project)
 
-## W2D1
+## Day 1
 
 ### Setup Project: My eCommerce App
 
@@ -27,7 +27,7 @@ Silahkan setup project aplikasi kamu:
     - [✅] Komponen list Wishlist (bisa menggunakan card yang sama dengan halaman list product)
     - [✅] Komponen Remove Wishlist
 
-## W2D2
+## Day 2
 
 ### NEXT.js Intro
 
@@ -72,7 +72,7 @@ Implementasikan CSR dan SSR pada pada halaman-halaman dan komponen-komponen yang
 
 > Catatan: Disini belum perlu melakukan fetching atau request data
 
-## W2D3
+## Day 3
 
 ### NEXT.js Route Handler
 
@@ -111,7 +111,7 @@ Implementasikan autentikasi pada aplikasi NEXT.js yang sudah dibuat dengan detai
 - [✅] Hanya user yang sudah login yang bisa menambahkan wishlist produk
 - [✅] Hanya user yang sudah login yang bisa menghapus wishlist produk
 
-## W2D4
+## Day 4
 
 ### Deploy Project
 
