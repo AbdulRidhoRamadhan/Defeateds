@@ -1,8 +1,8 @@
 # Defeateds
+Deployed at: https://defeateds.vercel.app/
 
 ## Overview
 A sleek, web-based eCommerce platform inspired by Undefeated—where cutting-edge style meets seamless shopping. (Undefeated Clone)
-
 
 ## Tech Stack
 - **Next.js**: A React framework for server-side rendering and generating static websites.
